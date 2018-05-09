@@ -1,0 +1,128 @@
+{
+	"cursos":{
+		
+		"curso-de-motorista-de-ambulancia":{
+			"titulo":"Curso de Motorista de Ambulância",
+			"objetivo":"O curso tem como objetivo preparar o condutor para conduzir ambulâncias e veículos de emergência com segurança.",
+ 			"duracao":"O curso terá a duração de 50 horas presenciais para a modalidade de Formação.<br>O curso terá a duração de 16 horas presenciais para modalidade de Atualização.",
+			"certificacao":"Sim, a Auto Escola CENTTRAN fornecerá o certificado de conclusão após o término do curso, devendo o condutor aguardar que o Detran insira a informação em campo específico na CNH.",
+			"documentos": {
+				"1":"Original e cópia da CNH ampliada a 130% categoria mínima B.",
+				"2":"Certidão negativa do registro de distribuição criminal relativamente aos crimes de homicídio, roubo, estupro e corrupção de menores obtida junto ao Fórum do local de registro da CNH.",
+				"3":"Certidão do prontuário da CNH para fins de direito (Postos do Detran ou no site www.detran.sp.gov.br).",
+				"4":"Foto 2x2 e comprovante de endereço.",
+				"5":"Comprovação do curso (somente para os cursos de atualização).",
+				"6": "<b>Artigos que impossibilitam a realização do curso 121;157;212;213 e 217ª ;218 do CP e art 302 CTB</b>",
+				"7": "Não estar cumprindo pena de suspensão do direito dirigir, cassação da CNH , pena decorrente de crimes de trânsito , bem como estar impedido judicialmente de exercer seus direitos."
+			}
+		},
+
+		"curso-mopp":{
+			"titulo":"Curso MOPP",
+			"objetivo":"O curso tem o objetivo de preparar os condutores para transportar produtos perigosos com segurança e agir em situações de emergência. Transportar cargas perigosas sem capacitação é crime ambiental. A pena prevista no artigo 56 da Lei 9605/98 é de reclusão de um a quatro anos e multa.",
+			"duracao":"O curso terá a duração de 50 horas presenciais para a modalidade de Formação.<br>O curso terá a duração de 16 horas presenciais para modalidade de Atualização.",
+			"certificacao":"Sim, a Auto Escola CENTTRAN fornecerá o certificado de conclusão após o término do curso, devendo o condutor aguardar que o Detran insira a informação em campo específico na CNH.",
+			"documentos": {
+				"1":"Original e cópia da CNH ampliada a 130% categoria mínima B.",
+				"2":"Certidão negativa do registro de distribuição criminal relativamente aos crimes de homicídio, roubo, estupro e corrupção de menores obtida junto ao Fórum do local de registro da CNH.",
+				"3":"Certidão do prontuário da CNH para fins de direito (Postos do Detran ou no site www.detran.sp.gov.br).",
+				"4":"Foto 2x2 e comprovante de endereço.",
+				"5":"Comprovação do curso (somente para os cursos de atualização).",
+				"6":"Artigos que impossibilitam a realização do curso 121;157;212;213 e 217ª ;218 do CP e art 302 CTB",
+				"7":"Não estar cumprindo pena de suspensão do direito dirigir, cassação da CNH , pena decorrente de crimes de trânsito , bem como estar impedido judicialmente de exercer seus direitos.Original e cópia da CNH ampliada a 130% categoria mínima B;",
+				"8":"Certidão negativa do registro de distribuição criminal relativamente aos crimes de homicídio, roubo, estupro e corrupção de menores obtida junto ao Fórum do local de registro da CNH.",
+				"9":"Certidão do prontuário da CNH para fins de direito (Postos do Detran ou no site www.detran.sp.gov.br);",
+				"10":"Foto 2x2 e comprovante de endereço;",
+				"11":"Comprovação do curso (somente para os cursos de atualização);",
+				"12":"Artigos que impossibilitam a realização do curso 121;157;212;213 e 217ª ;218 do CP e art 302 CTB;",
+				"13":"Não estar cumprindo pena de suspensão do direito dirigir, cassação da CNH , pena decorrente de crimes de trânsito , bem como estar impedido judicialmente de exercer seus direitos."
+				
+			}
+		},
+
+		"curso-de-transporte-escolar":{
+			"titulo":"Curso Transporte Escolar",
+ 			"objetivo":"O curso tem como objetivo preparar o condutor para conduzir crianças e jovens com maior segurança e atenção.",
+			"duracao":"O curso terá a duração de 50 horas presenciais para a modalidade de Formação.<br>O curso terá a duração de 16 horas presenciais para modalidade de Atualização.",
+			"certificacao":"Sim, a Auto Escola CENTTRAN fornecerá o certificado de conclusão após o término do curso, devendo o condutor aguardar que o Detran insira a informação em campo específico na CNH.",
+			"documentos": {
+				"1":"Original e cópia da CNH ampliada a 130% categoria mínima D.",
+				"2":"Certidão negativa do registro de distribuição criminal relativamente aos crimes de homicídio, roubo, estupro e corrupção de menores obtida junto ao Fórum do local de registro da CNH;",
+				"3":"Xerox Comprovante de Endereço;",
+				"4":"Certidão do prontuário da CNH para fins de direito (Postos do Detran ou no site www.detran.sp.gov.br);",
+				"5":"Foto 2x2 e comprovante de endereço;",
+				"6":"Exame psicotécnico realizada em Clínica credenciada pelo Detran, e no local de emissão da CNH;",
+				"7":"Comprovação do curso (somente para os cursos de atualização);=",
+				"8":"Artigos que impossibilitam a realização do curso 121;157;212;213 e 217ª ;218 do CP e art 302 CTB;",
+				"9":"Não estar cumprindo pena de suspensão do direito dirigir, cassação da CNH , pena decorrente de crimes de trânsito , bem como estar impedido judicialmente de exercer seus direitos;"
+			}
+		},
+
+		"curso-de-transporte-coletivo":{
+			"titulo":"Curso Transporte Coletivo",
+ 			"objetivo":"O curso tem como objetivo preparar o condutor para conduzir com segurança veículos de passageiros com mais de 8 lugares, incluindo-se ônibus e reboques de transporte de passageiros. ",
+			"duracao":"O curso terá a duração de 50 horas presenciais para a modalidade de Formação.<br>O curso terá a duração de 16 horas presenciais para modalidade de Atualização.",
+			"certificacao":"Sim, a Auto Escola CENTTRAN fornecerá o certificado de conclusão após o término do curso, devendo o condutor aguardar que o Detran insira a informação em campo específico na CNH.",
+			"documentos": {
+				"1":"Original e cópia da CNH ampliada a 130% categoria mínima B.",
+				"2":"Certidão negativa do registro de distribuição criminal relativamente aos crimes de homicídio, roubo, estupro e corrupção de menores obtida junto ao Fórum do local de registro da CNH.",
+				"3":"Certidão do prontuário da CNH para fins de direito (Postos do Detran ou no site www.detran.sp.gov.br).",
+				"4":"Foto 2x2 e comprovante de endereço.",
+				"5":"Comprovação do curso (somente para os cursos de atualização).",
+				"6":"<b>Artigos que impossibilitam a realização do curso 121;157;212;213 e 217ª ;218 do CP e art 302 CTB;</b>",
+				"7":"Não estar cumprindo pena de suspensão do direito dirigir, cassação da CNH , pena decorrente de crimes de trânsito , bem como estar impedido judicialmente de exercer seus direitos;"
+			}
+		},
+
+		"curso-de-taxisita":{
+			"titulo":"Curso de Taxista",
+ 			"objetivo":"Todo taxista precisa ter o CONDUTAX, cadastro pessoal e intransferível que habilita o cidadão (pessoa física) a exercer esta atividade.",
+			"duracao":"48 horas presenciais para táxi comum. <br> 16 horas presenciais para táxi especial.",
+			"certificacao":"Sim, o condutor receberá o certificado de conclusão após o término do curso.",
+			"documentos": {
+				"1":"Ser maior de 18 anos.",
+				"2":"Cópia simples da CNH e RG (para condutor).",
+				"3":"Cópia simples do RG e CPF (para auxiliar)."
+			}
+		},
+
+		"curso-de-mobilidade-reduzida":{
+			"titulo":"Curso Mobilidade Reduzida",
+ 			"objetivo":"Obrigatório aos condutores e auxiliares de veículo escolar participarem de curso específico para o transporte de crianças especiais. ",
+			"duracao":"O curso terá a duração de 16 horas presenciais.",
+			"certificacao":"Sim, o condutor receberá o certificado de conclusão após o término do curso.",
+			"documentos": {
+				"1":"Ser maior de 18 anos.",
+				"2":"Cópia simples da CNH e RG (para condutor).",
+				"3":"Cópia simples do RG e CPF (para auxiliar)."
+			}
+		},
+
+		"curso-para-renovacao-de-cnh":{
+			"titulo":"Curso para Renovação de CNH",
+ 			"objetivo":"Obrigatório aos condutores e auxiliares de veículo escolar participarem de curso específico para o transporte de crianças especiais. ",
+			"duracao":"O curso terá a duração de 16 horas presenciais.",
+			"certificacao":"Após o término do curso o certificado será emitido em até 5 dias.",
+			"documentos": {
+				"1":"Ser maior de 18 anos.",
+				"2":"Cópia simples da CNH e RG (para condutor).",
+				"3":"Cópia simples do RG e CPF (para auxiliar)."
+			}
+		},
+		"curso-de-reciclagem-de-cnh":{
+			"titulo":"Curso de Reciclagem de CNH",
+			"sobre":"",
+			"quem_se_destina":"",
+			"duracao":"",
+			"certificacao":"",
+			"documentos": {
+				"1":"Original e cópia da CNH ampliada a 130% categoria mínima B.",
+				"2":"Certidão negativa do registro de distribuição criminal relativamente aos crimes de homicídio, roubo, estupro e corrupção de menores obtida junto ao Fórum do local de registro da CNH.",
+				"3":"Certidão do prontuário da CNH para fins de direito (Postos do Detran ou no site www.detran.sp.gov.br).",
+				"4":"Foto 2x2 e comprovante de endereço.",
+				"5":"Comprovação do curso (somente para os cursos de atualização)."
+			}
+		}
+
+	}
+}
